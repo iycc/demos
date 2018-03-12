@@ -10,6 +10,8 @@
       <module>pattern-prototype</module>
       <module>pattern-factory</module>
       <module>pattern-proxy</module>
+        <module>pattern-strategy</module>
+      <module>pattern-template</module>
     </modules>
     <name>pattern-demo</name>
   <url>http://maven.apache.org</url>
