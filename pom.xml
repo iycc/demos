@@ -12,6 +12,7 @@
       <module>pattern-proxy</module>
         <module>pattern-strategy</module>
       <module>pattern-template</module>
+        <module>pattern-observer</module>
     </modules>
     <name>pattern-demo</name>
   <url>http://maven.apache.org</url>
